@@ -29,6 +29,8 @@ flowchart TD
 
     style F fill:#2e6f4e,color:#fff
     style B fill:#2e6f4e,color:#fff
+    style C fill:#2e6f4e,color:#fff
+    style P fill:#2e6f4e,color:#fff
     style V fill:#3d3d3d,color:#fff
 ```
 
@@ -68,38 +70,38 @@ Requires: chemical bonds, water, pH.
 - [x] [Nucleic acids](01-biochemistry/04-nucleic-acids.md)
 - [x] [Enzymes](01-biochemistry/05-enzymes.md)
 
-### 02 — Cell Biology `[ ]`
+### 02 — Cell Biology `[x]`
 
-Requires: biochemistry, prokaryote vs eukaryote distinction. *Next.*
+Requires: biochemistry, prokaryote vs eukaryote distinction.
 
-- [ ] Cell theory and cell types
-- [ ] Plasma membrane and the nucleus
-- [ ] Protein synthesis and trafficking organelles (ribosome, RER, SER, Golgi, lysosome, peroxisome)
-- [ ] Energy and containment organelles (mitochondria, chloroplasts)
-- [ ] Structure and movement (cytoskeleton, centrosome, vacuoles, cilia, flagella)
-- [ ] Comparison tables: prokaryote vs eukaryote, plant vs animal, organelle summary
+- [x] [Cell theory and cell types](02-cell-biology/01-cell-theory-and-cell-types.md)
+- [x] [Plasma membrane and the nucleus](02-cell-biology/02-plasma-membrane-and-nucleus.md)
+- [x] [Protein synthesis and trafficking organelles](02-cell-biology/03-protein-synthesis-and-trafficking-organelles.md) (ribosome, RER, SER, Golgi, lysosome, peroxisome)
+- [x] [Energy and containment organelles](02-cell-biology/04-energy-and-containment-organelles.md) (mitochondria, chloroplasts)
+- [x] [Structure and movement](02-cell-biology/05-structure-and-movement.md) (cytoskeleton, centrosome, vacuoles, cilia, flagella)
+- [x] [Comparison tables](02-cell-biology/06-comparison-tables.md): prokaryote vs eukaryote, plant vs animal, organelle summary
 
-### 03 — Cellular Processes `[ ]`
+### 03 — Cellular Processes `[x]`
 
 Requires: membranes, organelles, enzymes.
 
-- [ ] Membrane structure and the fluid mosaic model
-- [ ] Passive transport: diffusion, facilitated diffusion, osmosis, tonicity
-- [ ] Active transport: pumps, cotransport, endocytosis, exocytosis
-- [ ] ATP and metabolism
-- [ ] Glycolysis
-- [ ] Pyruvate oxidation and the citric acid cycle
-- [ ] The electron transport chain and ATP synthase
-- [ ] Fermentation
-- [ ] Photosynthesis
-- [ ] The cell cycle and its checkpoints
-- [ ] Mitosis and cytokinesis
-- [ ] Meiosis
-- [ ] Mitosis vs meiosis
+- [x] [Membrane structure and the fluid mosaic model](03-cellular-processes/01-membrane-structure-and-fluid-mosaic.md)
+- [x] [Passive transport](03-cellular-processes/02-passive-transport.md): diffusion, facilitated diffusion, osmosis, tonicity
+- [x] [Active transport](03-cellular-processes/03-active-transport.md): pumps, cotransport, endocytosis, exocytosis
+- [x] [ATP and metabolism](03-cellular-processes/04-atp-and-metabolism.md)
+- [x] [Glycolysis](03-cellular-processes/05-glycolysis.md)
+- [x] [Pyruvate oxidation and the citric acid cycle](03-cellular-processes/06-pyruvate-oxidation-and-citric-acid-cycle.md)
+- [x] [The electron transport chain and ATP synthase](03-cellular-processes/07-electron-transport-chain-and-atp-synthase.md)
+- [x] [Fermentation](03-cellular-processes/08-fermentation.md)
+- [x] [Photosynthesis](03-cellular-processes/09-photosynthesis.md)
+- [x] [The cell cycle and its checkpoints](03-cellular-processes/10-cell-cycle-and-checkpoints.md)
+- [x] [Mitosis and cytokinesis](03-cellular-processes/11-mitosis-and-cytokinesis.md)
+- [x] [Meiosis](03-cellular-processes/12-meiosis.md)
+- [x] [Mitosis vs meiosis](03-cellular-processes/13-mitosis-vs-meiosis.md)
 
 ### 04 — Genetics `[ ]`
 
-Requires: chromosomes, cell division.
+Requires: chromosomes, cell division. *Next.*
 
 - [ ] Genes, alleles, genotype, phenotype
 - [ ] Mendelian inheritance and Punnett squares

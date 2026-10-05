@@ -46,8 +46,8 @@ The full curriculum and its status are in [ROADMAP.md](ROADMAP.md). In order:
 | --- | --- | --- |
 | 00 | [Foundations](00-foundations/) | What life is, the levels of organization, atoms, bonds, water, pH, cell types, taxonomy, homeostasis |
 | 01 | [Biochemistry](01-biochemistry/) | Carbohydrates, lipids, proteins, nucleic acids, enzymes |
-| 02 | Cell Biology | Cell theory and every organelle: structure → location → function |
-| 03 | Cellular Processes | Membranes and transport, ATP, respiration, photosynthesis, the cell cycle, mitosis, meiosis |
+| 02 | [Cell Biology](02-cell-biology/) | Cell theory and every organelle: structure → location → function |
+| 03 | [Cellular Processes](03-cellular-processes/) | Membranes and transport, ATP, respiration, photosynthesis, the cell cycle, mitosis, meiosis |
 | 04 | Genetics | Alleles, Mendelian inheritance, Punnett squares, non-Mendelian patterns, pedigrees |
 | 05 | Molecular Biology | DNA replication, transcription, translation, gene regulation, mutations |
 | 06 | Evolution | Variation, natural selection, drift, gene flow, speciation, evidence |
